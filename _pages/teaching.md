@@ -24,7 +24,7 @@ Livermore, CA
 Visiting Research Associate - Laboratory for Laser Energetics, Rochester, NY
 
 Graduate Student -University of Rochester Rochester, NY
- ***
+***
 #### Awards
 
 #### Volunteering
