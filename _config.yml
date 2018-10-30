@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Maria Alejandra Barrios, PhD.
-email:
+#email:
 description: > # this means to ignore newlines until "url:"
   Data Scientist. Physicist. Traveler.
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
