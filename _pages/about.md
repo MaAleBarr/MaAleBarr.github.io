@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Maria Alejandra</strong>Barrios,PhD.
-description: <a href="">Lab41 In-Q-Tel</a> Physicist. Data Scientist. Traveler.
+title: <strong>Maria Alejandra</strong> Barrios, PhD.
+description: Physicist. Data Scientist. Traveler.
 
 profile:
   align: right
