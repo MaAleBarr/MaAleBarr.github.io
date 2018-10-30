@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Maria Alejandra Barrios, PhD.
+email: mbarrios@iqt.org
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Data Scientist. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,15 +17,15 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+github_username: MaAleBarr # your GitHub user name
+twitter_username: MaAleBarr # your Twitter handle
+linkedin_username: mariaalejandrabarriosgarcia # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to contact me is via LinkedIn. Shoot me a message!
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics:  # out your google-analytics code UA-XXXXXXXXX
 
 # -----------------------------------------------------------------------------
 # Blog
