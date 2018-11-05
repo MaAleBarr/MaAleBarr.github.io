@@ -32,10 +32,8 @@ Livermore, CA
 * Frank J. Horton Fellow, Laboratory for Laser Energetics (Awarded 2006-2010)
 
 ## Education
-University of Rochester, Rochester, NY
+#### University of Rochester, Rochester, NY
   * M.A. in Physics-- MAY 2008
   * PhD. in Physics-- AUGUST 2010
-Gettysburg College, Gettysburg, PA - B.A. in Physics -- MAY 2006
-  * Magna Cum Laude
-  * Phi Beta Kappa
-  * Sigma Pi Sigma  
+#### Gettysburg College, Gettysburg, PA - B.A. in Physics -- MAY 2006
+Magna Cum Laude, Phi Beta Kappa, Sigma Pi Sigma  
