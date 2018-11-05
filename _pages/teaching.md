@@ -12,15 +12,13 @@ description: Professional experience, awards, and volunteering.
 
 #### Senior Data Scientist - [Lab41](https://lab41.org/), In-Q-Tel, Menlo Park, CA
 
-#### Data Scientist- [Lab41](https://lab41.org/), In-Q-Tel, Menlo Park, CA
+#### Data Scientist - [Lab41](https://lab41.org/), In-Q-Tel, Menlo Park, CA
 
-#### Staff Scientist - Lawrence Livermore National Laboratory ([LLNL](https://www.llnl.gov/)),
-Livermore, CA
+#### Staff Scientist - Lawrence Livermore National Laboratory ([LLNL](https://www.llnl.gov/)), Livermore, CA
 
-#### Postdoctoral Fellow - Lawrence Livermore National Laboratory ([LLNL](https://www.llnl.gov/)),
-Livermore, CA
+#### Postdoctoral Fellow - Lawrence Livermore National Laboratory ([LLNL](https://www.llnl.gov/)), Livermore, CA
 
-#### Visiting Research Associate - Laboratory for Laser Energetics, Rochester, NY
+#### Visiting Research Associate - Laboratory for Laser Energetics ([LLE](http://www.lle.rochester.edu/)), Rochester, NY
 
 #### Graduate Student - University of Rochester Rochester, NY
 
@@ -33,7 +31,7 @@ Livermore, CA
 
 ## Education
 #### University of Rochester, Rochester, NY
-  * M.A. in Physics-- MAY 2008
-  * PhD. in Physics-- AUGUST 2010
+* M.A. in Physics-- MAY 2008
+* PhD. in Physics-- AUGUST 2010
 #### Gettysburg College, Gettysburg, PA - B.A. in Physics -- MAY 2006
 Magna Cum Laude, Phi Beta Kappa, Sigma Pi Sigma  
