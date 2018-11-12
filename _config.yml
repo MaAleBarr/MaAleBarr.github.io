@@ -17,9 +17,9 @@ last_updated: # leave blank if you don't want to display last updated
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: MaAleBarr # your GitHub user name
-twitter_username: MaAleBarr # your Twitter handle
+twitter_username: MaAleBarrGar # your Twitter handle
 linkedin_username: maalebarriosgarcia # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: fDvQwc4AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
   Best way to contact me is via LinkedIn. Shoot me a message!
@@ -71,7 +71,7 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes & excludes
 include: ['_pages']
