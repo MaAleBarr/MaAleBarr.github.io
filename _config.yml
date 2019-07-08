@@ -62,7 +62,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
+    text:
+      pagination:
+        newer: 'Newer'
+        older: 'Older'
 news_limit: 5
 
 # -----------------------------------------------------------------------------

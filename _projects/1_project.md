@@ -1,38 +1,55 @@
 ---
 layout: page
-title: Snowman cake
-description: Sketch to fondant
-img: /assets/img/snowmancake_gray.png
+title: Carro Autónomo
+description: CdC Colombia 2019
+img: /assets/img/donkeycar/built_sans_camera.jpg
 ---
 
-I absolutely enjoy baking cakes. Not only because they are sweet and delicious and you get to share them with your friends, but also because they can be small architecture projects.
+# Carro Autónomo — 
+### Clubes de Ciencia Cali, Colombia -- julio 2019
 
-When I start a cake I usually have a mental picture of what I want to make and how I want to decorate it. The end product is, most of the times, some odd transform of my original vision. This time around I wanted to document this process.
+En este club vamos a transformar un carro de control remoto y convertirlo en un carro autónomo. Vamos a adquirir la data necesaria para entrenar un modelo que se convertirá en nuestro piloto autónomo. Para esto usaremos la plataforma de [Donkeycar](https://www.donkeycar.com/). Esta plataforma nos permite fácilmente registrar imagenes de la cámara con las correspondientes señales de aceleración y dirección cuando manejamos el carro. El modelo que construyamos va a aprender una correlación entre images y acción (aceleración y dirección). De este modo podemos poder nuestro carro autónomo en la pista y al procesar imagenes, toma una acción de manera independiente.         
 
- Holiday season 2018: I wanted something festive, with a bit of humor. I decided make a snowman cake... a melting snowman cake #GlobalWarming. This is the original sketch. I wanted the snowman to look a bit distressed and frantic. Maybe a little scared? I mean, he/she *is* melting. Flavor palette: burnt butter/vanilla cake with maple syrup mascarpone filling.
+*Vamos a aprender sobre:*
+- Computación
+- El terminal y editores nativos como vi
+- Machine Learning e inteligencia artificial
+- Los pasos necesarios para entrenar un modelo
+- ¡Carros autónomos!
 
- <div class="img_col">
-     <img class="col three left" src="{{ site.baseurl }}/assets/img/sketch_snowm.png" alt="" title="example image"/>
- </div>
- <div class="col three caption">
-     Snowman cake sketch.
- </div>
 
-This was also a bit of an experiment, as it was the first time I was attempting to bake a spherical cake. Lessons learned: spherical cakes cook a little faster. Also don't be stingy with the batter-- I was and the lower half of my cake was a bit smaller than I intended. Not surprisingly, covering a sphere with fondant is a bit more challenging, but I had geometry on my side. Not perfect, but I got the job done. From left to right: spherical cake with fondant and bottom with crumb layer, top and bottom with fondant, and finished cake.
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/snowm_1c.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/snowm_2c.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/snowm_3c.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Cake assembly progression.
-</div>
+# Parte I  
 
-Two more views of the cake. I made earmuffs (with flowers) and a scarf for the snowman using fondant. I wanted the scarf to look old, so added details to make it look used and ragged.
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/snowm_4c.jpg" alt="" title="example image"/>
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/snowm_5c.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Two more views of the melting snowman cake.
-</div>
+Antes de tomar data y entrenar el modelo, tenemos que construir el equipo, instalar software en nuestro computador local y el raspberry pi (en efecto, el computador del carro).  
+
+____________________________
+
+## Equipo
+Conoce los diferentes [componentes del carro]({% link assets/files/materiales.md %}) y cómo contribuyen al ecosistema de nuestro carro autónomo.
+
+
+## Instalación de software
+Vamos a entrenar modelos en nuestro computador local y adquirir la data en el raspberry pi, así que las dos plataformas deben tener el código de donkeycar.
+Sigue las instrucciones [aquí]({% link assets/files/software.md %}).
+
+## La Pista
+El carro necesita un ambiente donde entrenar. Entre todos vamos a diseñar y construir una pista donde vamos a entrenar a nuestros pilotos.
+<br>
+
+# Parte II
+
+¡Ahora si estamos listos para empezar el proceso de crear nuestro piloto autónomo!  
+
+____________________________
+
+## Calibrar el Carro
+Es importante que nuestro piloto (por medio de señales del servo) entienda que es derecha, izquierda, parar, adelante y reversa. De igual manera, tener carros calibrados nos abre la posibilidad de compartir pilotos y/o data para entrenar a un super piloto.    
+
+## Data para el modelo
+Vamos a usar la pista para obtener imagenes y data sobre aceleración y dirección.
+
+## Entrenar un modelo
+Ya con data podemos entrenar un modelo. Pero ojo, aseguremonos que la data este "limpia" y recuerden reservar una fracción de la data para prueba.  
+
+## Piloto autónomo
+¡A Correr el piloto!

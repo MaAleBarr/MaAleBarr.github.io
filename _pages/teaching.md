@@ -12,7 +12,7 @@ ____________________________
 <br/>
 ### Experience
 ____________________________
-#### **Lead Machine Learning Scientist**  - [Noble.AI](https://noble.ai/), San Francisco, CA  | March 2019 - Present
+#### **Lead ML Scientist**  - [Noble.AI](https://noble.ai/), San Francisco, CA  | March 2019 - Present
 #### **Senior Data Scientist**  - [Lab41](https://lab41.org/), Menlo Park, CA  | Aug 2018 - March 2019
 #### **Data Scientist** - [Lab41](https://lab41.org/), Menlo Park, CA | Nov 2017 - Aug 2018
 #### **Fellow**  - [Insight Data Science](https://www.insightdatascience.com/), Palo Alto, CA | Jun 2017 - Nov 2017
