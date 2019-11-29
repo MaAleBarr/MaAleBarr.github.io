@@ -7,12 +7,13 @@ description: Professional experience, awards, and volunteering.
 
 ### Skills
 ____________________________
-#### **Languages:** Python, TensorFlow, PyTorch, Keras, SQL, bash
+#### **Languages:** Python, TensorFlow, PyTorch, Keras, AWS, SQL, Linux,  bash
 #### **Tools:** pandas, numpy, scipy, scikit-learn, matplotlib, seaborn, librosa
 <br/>
 ### Experience
 ____________________________
-#### **Lead ML Scientist**  - [Noble.AI](https://noble.ai/), San Francisco, CA  | March 2019 - Present
+#### **Interim Head of Data Science**  - [Respira Labs](https://respiralabs/), Mountain View, CA  | Oct 2019 - Present
+#### **Lead ML Scientist**  - [Noble.AI](https://noble.ai/), San Francisco, CA  | March 2019 - Oct 2019
 #### **Senior Data Scientist**  - [Lab41](https://lab41.org/), Menlo Park, CA  | Aug 2018 - March 2019
 #### **Data Scientist** - [Lab41](https://lab41.org/), Menlo Park, CA | Nov 2017 - Aug 2018
 #### **Fellow**  - [Insight Data Science](https://www.insightdatascience.com/), Palo Alto, CA | Jun 2017 - Nov 2017
@@ -35,3 +36,13 @@ __________________
 * National Ignition Facility and Photon Science Award, Lawrence Livermore National Laboratory (July 2014)
 * American Association of Physics Teachers Award, American Association of Physics Teachers (June 2008)
 * Frank J. Horton Fellow, Laboratory for Laser Energetics (Awarded 2006-2010)
+
+<br/>
+### Volunteering
+__________________
+*  **Clubes de Ciencias 2019** - One week course teaching underserved middle and high school students from Cali, Colombia how to build a self-driving car.  **$2500 USD** raised to buy RF cars, car platform, camera, Raspberry pi, servo, cables, batteries, and auxilary materials to make training track. THANK YOU TO ALL WHO DONATED! More information on project content [here](/projects/1_project/).
+* **2019 Grace Hopper AI Program Committee member** - Reviewed and provided feedback for AI track submissions
+* **National Labs Panel, Undergraduate Physics Conference**
+* **Girl Scouts fireside chat with women scientists 2016** - Participated in all women scientist panel, interviewed by girl scout --- get to know a scientist. Motivating young girls into STEM.
+* **Family Science 2013** - Exposing latino teenagers to STEM.
+* **Mentor for girl's Lego Robotics Club** 2004 Mentor for middle school girl's after school robotics club.
