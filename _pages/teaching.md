@@ -21,7 +21,7 @@ ____________________________
 #### **Postdoctoral Fellow** - [LLNL](https://www.llnl.gov/), Livermore, CA | Jan 2011 - Apr 2013
 #### **Visiting Research Associate** - [LLE](http://www.lle.rochester.edu/), Rochester, NY | Oct 2010 - Jan 2011
 #### **Graduate Student** - [Univ. of Rochester](https://www.rochester.edu/), Rochester, NY | Jun 2006 - Aug 2010
-____________________________
+
 ### Education
 ____________________________
 #### **University of Rochester**,  Rochester, NY | PhD. in Physics - Aug 2010
@@ -40,7 +40,7 @@ __________________
 <br/>
 ### Volunteering
 __________________
-*  **Clubes de Ciencias 2019** - One week course teaching underserved middle and high school students from Cali, Colombia how to build a self-driving car.  **$2500 USD** raised to buy RF cars, car platform, camera, Raspberry pi, servo, cables, batteries, and auxilary materials to make training track. THANK YOU TO ALL WHO DONATED! More information on project content [here](/projects/1_project/).
+*  **Clubes de Ciencias 2019** - One week course teaching underserved middle and high school students from Cali, Colombia how to build a self-driving car.  **$1800 USD** raised to buy RF cars, car platform, camera, Raspberry pi, servo, cables, batteries, and auxilary materials to make training track. THANK YOU TO ALL WHO DONATED! More information on project content [here](/projects/1_project/).
 * **2019 Grace Hopper AI Program Committee member** - Reviewed and provided feedback for AI track submissions
 * **National Labs Panel, Undergraduate Physics Conference**
 * **Girl Scouts fireside chat with women scientists 2016** - Participated in all women scientist panel, interviewed by girl scout --- get to know a scientist. Motivating young girls into STEM.
